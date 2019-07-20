@@ -4,8 +4,6 @@ import subprocess
 f = open("demofile.txt",'ra+')
 
 
-
-
 lines=f.readlines()
 
 for line in lines:
